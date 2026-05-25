@@ -1,0 +1,23 @@
+{
+  "name": "城市冒险家",
+  "short_name": "冒险家",
+  "description": "像素RPG风格的地图打卡工具",
+  "start_url": "/city-adventurer/",
+  "display": "standalone",
+  "background_color": "#0a0a1a",
+  "theme_color": "#1a1a2e",
+  "icons": [
+    {
+      "src": "/city-adventurer/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/city-adventurer/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [],
+  "categories": ["travel", "lifestyle", "utilities"]
+}
